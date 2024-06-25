@@ -1,1 +1,1 @@
-shokohsc/jsoncrack
+gitea/gitea
