@@ -1,1 +1,1 @@
-jumpserver/jms_all:latest
+nriver/trilium-cn
