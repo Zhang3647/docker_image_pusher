@@ -1,1 +1,1 @@
-gitea/gitea
+jenkins/jenkins:lts
