@@ -1,1 +1,1 @@
-seahorn/seahorn-llvm10
+prodrelworks/seahorn-gollvm-docker
