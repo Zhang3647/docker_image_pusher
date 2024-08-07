@@ -1,1 +1,1 @@
-prodrelworks/seahorn-gollvm-docker
+jericx/syncclipboard-server:latest
