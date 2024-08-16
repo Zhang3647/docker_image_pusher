@@ -1,1 +1,1 @@
-immich-machine-learning:latest
+ghcr.m.daocloud.io/immich-app/immich-server:release
