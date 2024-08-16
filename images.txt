@@ -1,1 +1,1 @@
-jericx/syncclipboard-server:latest
+immich-machine-learning:latest
