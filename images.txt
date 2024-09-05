@@ -1,1 +1,1 @@
-ghcr.m.daocloud.io/immich-app/immich-server:release
+fedirz/faster-whisper-server:latest-cuda
