@@ -1,1 +1,1 @@
-fedirz/faster-whisper-server:latest-cuda
+apache/hertzbeat:latest
