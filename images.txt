@@ -1,1 +1,1 @@
-apache/hertzbeat:latest
+tefeeds/http_proxy
