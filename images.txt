@@ -1,1 +1,1 @@
-wenbushi/ngx_http_proxy_connect
+xhofe/alist:latest
