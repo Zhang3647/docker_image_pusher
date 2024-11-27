@@ -1,1 +1,1 @@
-kostadinov/ngx_http_proxy_connect
+wenbushi/ngx_http_proxy_connect
