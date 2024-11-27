@@ -1,1 +1,1 @@
-tefeeds/http_proxy
+kostadinov/ngx_http_proxy_connect
