@@ -1,1 +1,1 @@
-apache/hertzbeat:latest
+zzc932/nginx:https_proxy
