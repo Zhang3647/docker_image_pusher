@@ -1,1 +1,1 @@
-zzc932/nginx:https_proxy
+prom/prometheus:latest
