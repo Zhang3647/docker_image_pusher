@@ -1,1 +1,1 @@
-mysql:8.0.40
+ghcr.io/civilblur/mazanoke:latest
