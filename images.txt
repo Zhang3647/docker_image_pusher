@@ -1,1 +1,3 @@
-ghcr.io/civilblur/mazanoke:latest
+photoprism/photoprism:latest
+mariadb:11
+containrrr/watchtower
