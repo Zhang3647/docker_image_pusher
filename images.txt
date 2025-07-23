@@ -1,4 +1,1 @@
-ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0
-docker.io/valkey/valkey:8-bookworm
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
+clickhouse/clickhouse-client:latest
